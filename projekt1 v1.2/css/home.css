@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(to bottom, #0f0f0f, #0d0112);
+    color: #c8cdde;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1 {
+    color:#c8cdde;
+}
+.custom {
+    color: #aaaebd;
+}

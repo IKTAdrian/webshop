@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to bottom, #0f0f0f, #0d0112);
+    color: #212121;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.card-body-custom{
+    color: white;
+    background-color: #0f0f0f;
+}
+
+.card-title-custom {
+    text-align: center;
+    padding-top: 1.5rem;
+    color: #aaaebd;
+}
+
+.card-text-custom {
+    color: #aaaebd;
+    text-align: center;
+}
